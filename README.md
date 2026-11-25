@@ -1,4 +1,4 @@
-# Hi, I'm Areeba! 👋
+# Hi, I'm Areeba! 
 
 🎓 Computer Science Graduate  
 🏷️ Aspiring Data Annotation Specialist  
