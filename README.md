@@ -1,342 +1,244 @@
 
-# 👩‍💻 Areeba Naeem
+<!-- ========== HEADER ========== -->
 
-### Computer Science Graduate | Software Engineer | Full-Stack Developer | Data & AI Annotation
+
+<div align="center">
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,100:00B4D8&height=230&section=header&text=AREEBA%20NAEEM&fontSize=52&fontColor=ffffff&fontAlignY=38" width="100%" alt="Areeba Naeem - Software Engineering and Data AI" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3000&pause=1000&color=00B4D8&center=true&vCenter=true&width=750&height=55&lines=Computer+Science+Graduate;Software+Engineering+Enthusiast;Full-Stack+Developer;Data+Annotation+%26+AI+Projects;Building+Technology+with+Purpose" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/Areeba-Naeem123">
+<img src="https://img.shields.io/badge/GitHub-Areeba--Naeem123-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/areeba-naeem-37bb0a274">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:areebanaeem069@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Software%20Development-0A192F?style=flat-square&logo=visualstudiocode&logoColor=00B4D8" />
+<img src="https://img.shields.io/badge/Data%20%26%20AI-0A192F?style=flat-square&logo=googlecolab&logoColor=F9AB00" />
+<img src="https://img.shields.io/badge/Always%20Learning-0A192F?style=flat-square&logo=github&logoColor=white" />
+
+</div>
+
+---
+
+
+---
+
+## 👩‍💻 About Me
+
+I'm a Computer Science graduate from **University of Engineering and Technology (UET), Lahore**, interested in software engineering, full-stack development, and data and AI projects.
+
+I work on building web and software applications, preparing and annotating datasets, and exploring practical applications of machine learning and AI.
+
+- 🎓 Computer Science — UET Lahore (2022–2026)
+- 💻 Freelancing since 2024
+- 🤖 Experience with data collection, annotation, labeling, and OCR datasets
+- 🌐 Interested in full-stack development and software engineering
+- 📊 Experience working with Google BigQuery and data processing
+- 🚀 Always learning and building practical projects
+
+## 🛠️ Tech Stack and Tools
+
+### Programming Languages
+
+<table>
+<tr>
+<td align="center" width="20%"><img src="https://skillicons.dev/icons?i=python" width="55"><br><b>Python</b></td>
+<td align="center" width="20%"><img src="https://skillicons.dev/icons?i=cpp" width="55"><br><b>C++</b></td>
+<td align="center" width="20%"><img src="https://skillicons.dev/icons?i=cs" width="55"><br><b>C#</b></td>
+<td align="center" width="20%"><img src="https://skillicons.dev/icons?i=js" width="55"><br><b>JavaScript</b></td>
+<td align="center" width="20%"><img src="https://skillicons.dev/icons?i=php" width="55"><br><b>PHP</b></td>
+</tr>
+</table>
+
+### Frontend Development
+
+<table>
+<tr>
+<td align="center" width="20%"><img src="https://skillicons.dev/icons?i=html" width="55"><br><b>HTML5</b></td>
+<td align="center" width="20%"><img src="https://skillicons.dev/icons?i=css" width="55"><br><b>CSS3</b></td>
+<td align="center" width="20%"><img src="https://skillicons.dev/icons?i=bootstrap" width="55"><br><b>Bootstrap</b></td>
+<td align="center" width="20%"><img src="https://skillicons.dev/icons?i=react" width="55"><br><b>React</b></td>
+</tr>
+</table>
+
+### Backend Development
+
+<table>
+<tr>
+<td align="center" width="25%"><img src="https://skillicons.dev/icons?i=django" width="55"><br><b>Django</b></td>
+<td align="center" width="25%"><img src="https://skillicons.dev/icons?i=dotnet" width="55"><br><b>.NET</b></td>
+<td align="center" width="25%"><img src="https://skillicons.dev/icons?i=php" width="55"><br><b>PHP</b></td>
+<td align="center" width="25%"><img src="https://skillicons.dev/icons?i=cs" width="55"><br><b>C#</b></td>
+</tr>
+</table>
+
+### Databases and Data Platforms
+
+<table>
+<tr>
+<td align="center" width="25%"><img src="https://skillicons.dev/icons?i=mysql" width="55"><br><b>MySQL</b></td>
+<td align="center" width="25%"><img src="https://skillicons.dev/icons?i=sqlite" width="55"><br><b>SQLite</b></td>
+<td align="center" width="25%"><img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="55"><br><b>SQL Server</b></td>
+<td align="center" width="25%"><img src="https://cdn.simpleicons.org/googlebigquery/669DF6" width="55"><br><b>BigQuery</b></td>
+</tr>
+</table>
+
+### Data, AI and Annotation
+
+<table>
+<tr>
+<td align="center" width="25%"><img src="https://skillicons.dev/icons?i=python" width="55"><br><b>Data Processing</b></td>
+<td align="center" width="25%"><img src="https://img.shields.io/badge/OCR-4285F4?style=for-the-badge" height="28"><br><b>OCR</b></td>
+<td align="center" width="25%"><img src="https://img.shields.io/badge/Data_Annotation-00897B?style=for-the-badge" height="28"><br><b>Data Annotation</b></td>
+<td align="center" width="25%"><img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge" height="28"><br><b>Machine Learning</b></td>
+</tr>
+</table>
+
+### Tools and Platforms
+
+<table>
+<tr>
+<td align="center" width="20%"><img src="https://skillicons.dev/icons?i=git" width="55"><br><b>Git</b></td>
+<td align="center" width="20%"><img src="https://skillicons.dev/icons?i=github" width="55"><br><b>GitHub</b></td>
+<td align="center" width="20%"><img src="https://skillicons.dev/icons?i=vscode" width="55"><br><b>VS Code</b></td>
+<td align="center" width="20%"><img src="https://cdn.simpleicons.org/jira/0052CC" width="55"><br><b>Jira</b></td>
+</tr>
+</table>
+
+### Other Technical Skills
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Building+Software+Solutions;Exploring+AI+%26+Machine+Learning;Creating+High-Quality+Annotated+Datasets;Turning+Ideas+Into+Practical+Projects" alt="Introduction" />
+<img src="https://img.shields.io/badge/OOP-Object%20Oriented%20Programming-445E93?style=flat-square" />
+<img src="https://img.shields.io/badge/DSA-Data%20Structures%20%26%20Algorithms-6C63FF?style=flat-square" />
+<img src="https://img.shields.io/badge/REST%20API-Integration-009688?style=flat-square" />
+<img src="https://img.shields.io/badge/TCP%2FIP-Networking-0078D4?style=flat-square" />
+<img src="https://img.shields.io/badge/Socket%20Programming-Networking-555555?style=flat-square" />
+<img src="https://img.shields.io/badge/Software%20Testing-STLC-2E8B57?style=flat-square" />
+<img src="https://img.shields.io/badge/Assembly-Language-555555?style=flat-square" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Computer_Science-Graduate-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Software-Engineering-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full--Stack-Development-0891B2?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Data_&_AI-Annotation-0D9488?style=for-the-badge" />
-</p>
-
 ---
 
-# 👩‍💻 About Me
+## 🚀 Featured Data & AI Projects
 
-## Areeba Naeem
+### 1. Urdu Orator OCR Dataset
+**Urdu Document OCR — See the Text. Hear the Story.**
 
-**Computer Science Graduate | UET Lahore, Pakistan**
+Collected and annotated Urdu document data for an OCR-focused Final Year Project, covering printed, handwritten, camera-captured, and historical document categories.
 
-I am a Computer Science graduate interested in developing practical software applications and contributing to data-driven AI solutions. My experience combines software development, web technologies, data collection, annotation, dataset preparation, and machine learning workflows.
+[![Dataset Repository](https://img.shields.io/badge/GitHub-View%20Dataset-181717?style=for-the-badge&logo=github)](https://github.com/Areeba-Naeem123/Urdu-Orator-OCR-DataSet)
 
-I enjoy working across different stages of technology projects — from designing and developing applications to preparing, labeling, validating, and documenting datasets.
+### 2. Everyday Object Detection
 
-- 🎓 **Education:** BS Computer Science, University of Engineering and Technology, Lahore
-- 💼 **Experience:** Freelance Software Development & Data Annotation since 2024
-- 💻 **Development Interests:** Full-Stack Development, Backend Systems, Web Applications
-- 🤖 **AI & Data Interests:** Data Annotation, OCR, Speech Data, NLP, Machine Learning
-- 📊 **Data Tools:** Google BigQuery, CVAT, Python
-- 🌍 **Location:** Pakistan
+Created a small object detection dataset with 24 images, annotated bounding boxes, and YOLO-format labels using CVAT.
 
----
+**Classes:** Cup, Mobile Phone, Bottle
 
-## 🎯 Professional Focus
+[![Object Detection](https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/Areeba-Naeem123/Everyday-Object-Detection)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/01-Software_Development-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/02-Full--Stack_Development-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/03-Data_Annotation-0D9488?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/04-AI_&_ML_Data-CA8A04?style=for-the-badge" />
-</p>
+### 3. Urdu-English Speech Intelligence Dataset
 
-| Area | What I Work On |
-|---|---|
-| Software Engineering | Application development, programming, OOP, DSA |
-| Web Development | Frontend, backend, database integration |
-| Data Annotation | Image labeling, bounding boxes, OCR data |
-| Speech & NLP | Transcription, speaker and language annotation, NER |
-| Data Processing | Dataset preparation, validation, BigQuery |
-| Software Quality | Test cases, bug reporting, defect tracking |
+A speech dataset project using 20 Urdu audio samples from Mozilla Common Voice, with human-verified transcripts and speaker, language, sentiment, and named-entity annotations.
 
----
+[![Speech Dataset](https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/Areeba-Naeem123/Urdu-English-Speech-Intelligence-Dataset)
 
-# 🚀 Featured Projects
+### 4. Data Annotation Portfolio
 
-## 🤖 Data Annotation & AI Portfolio
+A collection of data annotation and AI-related portfolio projects.
 
-### 01. Urdu Orator OCR Dataset
-
-**Urdu Document Collection & Annotation**
-
-A dataset developed as part of an Urdu document OCR project. My contribution included collecting and annotating document data across printed, handwritten, camera-captured, and historical categories.
-
-**Key Contributions**
-- Urdu document data collection and annotation.
-- Work with multiple document categories.
-- Dataset preparation for OCR experiments.
-- Support for model evaluation workflows.
-
-**Technology & Skills**
-
-![OCR](https://img.shields.io/badge/Urdu-OCR-0891B2?style=flat-square)
-![Annotation](https://img.shields.io/badge/Data-Annotation-7C3AED?style=flat-square)
-![Dataset](https://img.shields.io/badge/Dataset-Preparation-0D9488?style=flat-square)
-
-🔗 [Explore Repository](https://github.com/Areeba-Naeem123/Urdu-Orator-OCR-DataSet)
-
----
-
-### 02. Everyday Object Detection
-
-**Image Annotation | Bounding Boxes | YOLO Format**
-
-An image annotation project containing 24 images annotated with bounding boxes using CVAT and exported in Ultralytics YOLO format.
-
-**Key Contributions**
-- Annotated 24 everyday-object images.
-- Created bounding-box annotations.
-- Defined three classes: cup, mobile phone, and bottle.
-- Organized images and labels in YOLO dataset structure.
-- Added dataset validation.
-
-**Technology & Skills**
-
-![CVAT](https://img.shields.io/badge/CVAT-16A6A1?style=flat-square)
-![YOLO](https://img.shields.io/badge/YOLO-111827?style=flat-square)
-![Image Annotation](https://img.shields.io/badge/Image_Annotation-2563EB?style=flat-square)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-🔗 [Explore Repository](https://github.com/Areeba-Naeem123/Everyday-Object-Detection)
-
----
-
-### 03. Urdu-English Speech Intelligence Dataset
-
-**Speech Transcription | Speaker Identification | NLP Annotation**
-
-A speech dataset project currently containing 20 Urdu Common Voice recordings with human-verified transcripts and structured annotations.
-
-**Key Contributions**
-- Organized Urdu audio samples.
-- Prepared and human-verified transcripts.
-- Added anonymized speaker identification.
-- Annotated language information.
-- Added preliminary text-based sentiment and named entity annotations.
-- Documented dataset structure and validation.
-
-**Technology & Skills**
-
-![Speech](https://img.shields.io/badge/Speech-Transcription-0F766E?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-Annotation-7C3AED?style=flat-square)
-![Language](https://img.shields.io/badge/Language-Identification-15803D?style=flat-square)
-![Dataset](https://img.shields.io/badge/Dataset-Validation-0891B2?style=flat-square)
-
-🔗 [Explore Repository](https://github.com/Areeba-Naeem123/Urdu-English-Speech-Intelligence-Dataset)
+[![Portfolio](https://img.shields.io/badge/GitHub-View%20Portfolio-181717?style=for-the-badge&logo=github)](https://github.com/Areeba-Naeem123/Data-Annotation-Portfolio)
 
 ---
 
 ## 💻 Software Engineering Projects
 
-### 04. Department Mess Management System
-
-A C# and .NET desktop application developed for department mess management.
-
-**Technologies:** C# · .NET
-
-🔗 [View Source Code – Desktop Application Development (C#)](https://github.com/Areeba-Naeem123/Desktop-Application-Development-C-Sharp)
-
----
-
-### 05. E-Commerce Shopping Website
-
-A web-based shopping application with frontend and backend functionality.
-
-**Technologies:** HTML · CSS · Bootstrap · JavaScript · PHP
-
-🔗 [View Source Code – E-Commerce Website](https://github.com/Areeba-Naeem123/E-Commerce-Website-)
+| Project | Technologies | Repository |
+|---|---|---|
+| Department Mess Management System | C#, .NET | [View Project](https://github.com/Areeba-Naeem123/Desktop-Application-Development-C-Sharp) |
+| E-Commerce Shopping Website | HTML, CSS, Bootstrap, JavaScript, PHP | [View Project](https://github.com/Areeba-Naeem123/E-Commerce-Website-) |
+| Weather Data Analyzer | C++, Data Structures, Linear Regression | [View Project](https://github.com/Areeba-Naeem123/Weather-Analyzer-) |
+| C++ to Assembly Compiler | C++, Assembly | [View Project](https://github.com/Areeba-Naeem123/CPP-to-Assembly-Compiler-) |
 
 ---
 
-### 06. E-Voting System
+## 💼 Freelance Experience
 
-An electronic voting application integrating database functionality and socket programming.
-
-**Technologies:** PHP · MySQL · HTML · CSS · Socket Programming
-
-
----
-
-### 07. Weather Data Analyzer
-
-A C++ project analyzing 40 years of weather data using CSV processing, data structures, linear regression, and candlestick charts.
-
-**Technologies:** C++ · Data Structures · Linear Regression · CSV
-
-🔗 [View Source Code – Weather Analyzer](https://github.com/Areeba-Naeem123/Weather-Analyzer-)
+- Worked on web development projects and delivered practical software solutions.
+- Worked with large-scale data using Google BigQuery for data processing and evaluation.
+- Contributed to AI/ML data annotation and dataset preparation tasks.
+- Gained experience in understanding project requirements and delivering client-focused work.
 
 ---
 
-### 08. C++ to Assembly Compiler
+## 🎓 Education
 
-A compiler project focused on translating C++ code into Assembly language.
-
-**Technologies:** C++ · Assembly
-
-🔗 [View Source Code – C++ to Assembly Compiler](https://github.com/Areeba-Naeem123/CPP-to-Assembly-Compiler-)
-
-# 🛠️ Tech Stack & Skills
-
-## 💻 Programming Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C Sharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Assembly](https://img.shields.io/badge/Assembly-525252?style=for-the-badge)
-
-## 🎨 Frontend Development
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
-## ⚙️ Backend Development
-
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge)
-
-## 🗄️ Databases
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
-
-## 🤖 Data Annotation & AI
-
-![Data Collection](https://img.shields.io/badge/Data_Collection-2563EB?style=for-the-badge)
-![Data Annotation](https://img.shields.io/badge/Data_Annotation-7C3AED?style=for-the-badge)
-![Image Labeling](https://img.shields.io/badge/Image_Labeling-0891B2?style=for-the-badge)
-![Urdu OCR](https://img.shields.io/badge/Urdu_OCR-0D9488?style=for-the-badge)
-![Speech Transcription](https://img.shields.io/badge/Speech_Transcription-0F766E?style=for-the-badge)
-![Speaker Identification](https://img.shields.io/badge/Speaker_Identification-15803D?style=for-the-badge)
-![Language Identification](https://img.shields.io/badge/Language_Identification-16A34A?style=for-the-badge)
-![Sentiment Analysis](https://img.shields.io/badge/Sentiment_Annotation-CA8A04?style=for-the-badge)
-![NER](https://img.shields.io/badge/Named_Entity_Recognition-B45309?style=for-the-badge)
-![BigQuery](https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=googlebigquery&logoColor=white)
-
-## 🔧 Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![CVAT](https://img.shields.io/badge/CVAT-16A6A1?style=for-the-badge)
-
-## 🌐 Networking & Core CS
-
-![TCP IP](https://img.shields.io/badge/TCP%2FIP-2563EB?style=for-the-badge)
-![UDP](https://img.shields.io/badge/UDP-2563EB?style=for-the-badge)
-![HTTP](https://img.shields.io/badge/HTTP-0D9488?style=for-the-badge)
-![Sockets](https://img.shields.io/badge/Socket_Programming-7C3AED?style=for-the-badge)
-![OOP](https://img.shields.io/badge/OOP-9333EA?style=for-the-badge)
-![DSA](https://img.shields.io/badge/Data_Structures-CA8A04?style=for-the-badge)
-
-## 🧪 Software Testing & QA
-
-![SDLC](https://img.shields.io/badge/SDLC-2563EB?style=for-the-badge)
-![STLC](https://img.shields.io/badge/STLC-7C3AED?style=for-the-badge)
-![Test Cases](https://img.shields.io/badge/Test_Case_Design-0891B2?style=for-the-badge)
-![Bug Reporting](https://img.shields.io/badge/Bug_Reporting-DC2626?style=for-the-badge)
-![Defect Life Cycle](https://img.shields.io/badge/Defect_Life_Cycle-B45309?style=for-the-badge)
-![Dataset Validation](https://img.shields.io/badge/Dataset_Validation-0D9488?style=for-the-badge)
-
----
-
-# 💼 Professional Experience
-
-### Freelance Software Development & Data Annotation
-**2024 – Present**
-
-- Developed and delivered web-based software projects.
-- Contributed to AI/ML data annotation and labeling tasks.
-- Worked with large-scale data using Google BigQuery.
-- Supported data processing, preparation, and evaluation workflows.
-- Contributed to machine learning projects through dataset preparation.
-
----
-
-# 🎓 Education
-
-### Bachelor of Science in Computer Science
-**University of Engineering and Technology (UET), Lahore**
-
+**Bachelor of Science in Computer Science (BSCS)**  
+University of Engineering and Technology (UET), Lahore  
 2022 – 2026
 
 ---
 
-# 📊 GitHub Statistics
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Areeba-Naeem123&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areeba-Naeem123&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Areeba-Naeem123&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
+## 🌱 Currently Exploring
 
----
-
-# 🌱 Currently Exploring
-
-- 🤖 AI-assisted data workflows
-- 🧠 Machine learning and NLP applications
-- 💻 Full-stack application development
-- 📊 Dataset quality and annotation workflows
-- 🌐 Backend development and APIs
+- Full-Stack Web Development
+- AI and Machine Learning Applications
+- Data Annotation and Dataset Quality
+- OCR and Speech Processing
+- Software Testing and Quality Assurance
 
 ---
 
-# 🎯 What I'm Looking For
+## 🎯 What I'm Looking For
 
-I am interested in opportunities where I can contribute my skills and continue growing in:
+I'm interested in opportunities involving:
 
-- Software Engineering
-- Full-Stack Development
-- Web Application Development
-- Data Annotation and Data Labeling
-- AI/ML Data Preparation
-- OCR and Speech Dataset Projects
-
-I value practical problem-solving, collaboration, continuous learning, and building reliable technology solutions.
+- Software Engineering and Full-Stack Development
+- Data Annotation and AI Data Operations
+- Dataset Collection, Labeling, and Quality Assurance
+- Junior Developer and Entry-Level Technical Roles
+- Freelance Development and Data Projects
 
 ---
 
-# 🤝 Let's Connect
+## 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/areeba-naeem-37bb0a274">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Areeba-Naeem123">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://github.com/Areeba-Naeem123/Data-Annotation-Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-Explore-0D9488?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <b>Thanks for visiting my profile!</b>
-  <br/>
-  ⭐ Feel free to explore my repositories and connect.
-</p>
-<p align="center">
-  📧 **Email:** [areebanaeem069@gmail.com](mailto:areebanaeem069@gmail.com)
-</p>
+<a href="https://www.linkedin.com/in/areeba-naeem-37bb0a274">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:areebanaeem069@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/Areeba-Naeem123">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<p>📧 <b>areebanaeem069@gmail.com</b></p>
+
+</div>
+
 ---
 
-<p align="center">
-  <i>Building • Learning • Annotating • Developing</i>
-</p>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" />
+
+**Thanks for visiting my profile!**
+
+</div>
